@@ -1,0 +1,4 @@
+2021-03-03 08:00:02,260 DEBUG: Starting new HTTPS connection (1): tcgbusfs.blob.core.windows.net
+2021-03-03 08:00:02,448 DEBUG: https://tcgbusfs.blob.core.windows.net:443 "GET /blobbus/GetEstiamteTime.json HTTP/1.1" 200 2043408
+2021-03-03 08:00:02,592 INFO: 200
+2021-03-03 08:00:02,622 INFO: filename = 2021-03-03 075901.json
